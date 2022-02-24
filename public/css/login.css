@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.kiri{
+    background-color: white;
+    width: 30%;
+    height: 800px;
+    float: left;
+    padding: 50px 115px;
+}
+
+.kotakluar{
+   padding: 30px;
+   width: 335px;
+   height: 115px;
+   margin: auto; 
+}
+.kotak{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    float: left;
+    box-shadow: 3px 2px 10px #888888;   
+    border-radius: 15px;
+    margin-left: 40px;
+}
+
+.f h1{
+    margin-top: 30%;
+    text-align: center;
+    color: blue;
+}
+
+.g h1{
+    margin-top: 30%;
+    text-align: center;
+    color: red;
+}
+
+label{
+    font-size: 20px;
+    width: 100%;
+    margin-right: 200px;
+    
+}
+
+input{
+    width: 100%;
+    padding: 20px;
+    border-radius: 35px;
+    margin-bottom: 20px;
+    
+}
+
+.kiri a{
+    color: green;
+    font-size: 20px;
+    padding-top: 10px;
+    text-decoration: none;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+.kiri button{
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    padding: 10px 15px ;
+    border-radius: 35px;
+    width: 30%;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+.kanan{
+    background-image: url(../images/pajadah.jpg); 
+    background-size: cover;
+    opacity: 0.8;
+    /* background-position: left; */
+    color: white;
+    background-color: blue;
+    width: 45%;
+    height: 800px;
+    float: right; 
+    padding: 50px 30px
+}
+
+.kanan h1{
+    opacity: 1;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.kanan h2{
+    font-size: 35px;
+
+}
